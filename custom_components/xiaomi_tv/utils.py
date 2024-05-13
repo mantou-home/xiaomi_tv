@@ -228,14 +228,14 @@ ACTION_KEYS = {
     'volumeup': ['volumeup'],
     # 开启调试模式（最后两个键是弹窗确定，第一次需要）
     'adb': [
-        # 打开账号与安全
-        'right', 'right', 'right', 'enter',
+        # 打开账号与安全 小米电视6至尊版
+        'down', 'down', 'down', 'down', 'down', 'down', 'down', 'right',
         # 选择ADB高度
-        'down', 'down', 'enter', 
+        'down', 'down', 
         # 选择开启
-        'up', 'enter', 
+        'enter', 
         # 二次确定
-        'down', 'left', 'enter'
+        'left', 'enter',
     ]
 }
 
